@@ -24,6 +24,7 @@ let path = {
       img: 'src/img/**/*.*',
 		},
 		watch: {
+
 			html: 'src/**/*.html',
 			js: 'src/js/**/*.js',
 			css: 'src/style/**/*.scss',
